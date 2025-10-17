@@ -11,7 +11,7 @@ export default function Hero() {
             </h1>
             <p className="text-lg text-muted-foreground leading-relaxed">
               Professional laundry service that saves you time. We handle your clothes with care, using premium
-              detergents and eco-friendly practices.
+              detergents and eco-friendly practicess.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
@@ -42,7 +42,7 @@ export default function Hero() {
           </div>
           <div className="relative h-96 md:h-full">
             <img
-              src="/professional-laundry-service-clean-clothes.jpg"
+              src="./professional-laundry-service-clean-clothes.jpg"
               alt="Fresh laundry"
               className="w-full h-full object-cover rounded-lg"
             />
